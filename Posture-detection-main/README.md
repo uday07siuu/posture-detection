@@ -82,7 +82,4 @@ Contributions, feedback, wild ideas—bring them on!
 
 ---
 
-## 📜 License & Contact
 
-MIT License
-Adil Shamim | [GitHub](https://github.com/AdilShamim8) | [adilshamim696@gmail.com](mailto:adilshamim696@gmail.com)
